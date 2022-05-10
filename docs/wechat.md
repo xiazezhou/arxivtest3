@@ -134,8 +134,8 @@
 
 ## Visual Localization
 
-- 2022-05-09, **Introspective Deep Metric Learning**, Chengkun Wang et.al., Paper: [http://arxiv.org/abs/2205.04449v1](http://arxiv.org/abs/2205.04449v1)
-- 2022-05-09, **Improved Evaluation and Generation of Grid Layouts using Distance Preservation Quality and Linear Assignment Sorting**, Kai Uwe Barthel et.al., Paper: [http://arxiv.org/abs/2205.04255v1](http://arxiv.org/abs/2205.04255v1)
+- 2022-05-09, **Introspective Deep Metric Learning**, Chengkun Wang et.al., Paper: [http://arxiv.org/abs/2205.04449v1](http://arxiv.org/abs/2205.04449v1), Code: **[https://github.com/wangck20/idml](https://github.com/wangck20/idml)**
+- 2022-05-09, **Improved Evaluation and Generation of Grid Layouts using Distance Preservation Quality and Linear Assignment Sorting**, Kai Uwe Barthel et.al., Paper: [http://arxiv.org/abs/2205.04255v1](http://arxiv.org/abs/2205.04255v1), Code: **[https://github.com/visual-computing/las_flas](https://github.com/visual-computing/las_flas)**
 - 2022-05-08, **Adversarial Learning of Hard Positives for Place Recognition**, Wenxuan Fang et.al., Paper: [http://arxiv.org/abs/2205.03871v1](http://arxiv.org/abs/2205.03871v1)
 - 2022-05-05, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v1](http://arxiv.org/abs/2205.02849v1)
 - 2022-04-29, **Privacy-Preserving Model Upgrades with Bidirectional Compatible Training in Image Retrieval**, Shupeng Su et.al., Paper: [http://arxiv.org/abs/2204.13919v1](http://arxiv.org/abs/2204.13919v1)
