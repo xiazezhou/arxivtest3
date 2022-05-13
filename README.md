@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
+|**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Jing Ying Ko et.al.|[2205.04300v1](http://arxiv.org/abs/2205.04300v1)|**[link](https://github.com/wh200720041/mms_slam)**|
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado et.al.|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
@@ -199,6 +201,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-12**|**One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**|Yong Dai et.al.|[2205.06126v1](http://arxiv.org/abs/2205.06126v1)|null|
 |**2022-05-11**|**Review on Panoramic Imaging and Its Applications in Scene Understanding**|Shaohua Gao et.al.|[2205.05570v1](http://arxiv.org/abs/2205.05570v1)|null|
 |**2022-05-10**|**Identical Image Retrieval using Deep Learning**|Sayan Nath et.al.|[2205.04883v1](http://arxiv.org/abs/2205.04883v1)|**[link](https://github.com/sayannath/identical-image-retrieval)**|
 |**2022-05-09**|**Introspective Deep Metric Learning**|Chengkun Wang et.al.|[2205.04449v1](http://arxiv.org/abs/2205.04449v1)|**[link](https://github.com/wangck20/idml)**|
@@ -206,7 +209,7 @@
 |**2022-05-08**|**Adversarial Learning of Hard Positives for Place Recognition**|Wenxuan Fang et.al.|[2205.03871v1](http://arxiv.org/abs/2205.03871v1)|null|
 |**2022-05-10**|**AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**|Khanh Nguyen et.al.|[2205.02849v2](http://arxiv.org/abs/2205.02849v2)|**[link](https://github.com/oulu-imeds/adatriplet)**|
 |**2022-04-29**|**Privacy-Preserving Model Upgrades with Bidirectional Compatible Training in Image Retrieval**|Shupeng Su et.al.|[2204.13919v1](http://arxiv.org/abs/2204.13919v1)|null|
-|**2022-04-29**|**Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**|Siyu Ren et.al.|[2204.13913v1](http://arxiv.org/abs/2204.13913v1)|null|
+|**2022-04-29**|**Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**|Siyu Ren et.al.|[2204.13913v1](http://arxiv.org/abs/2204.13913v1)|**[link](https://github.com/drsy/motis)**|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa et.al.|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
 |**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas et.al.|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
 |**2022-04-25**|**SceneTrilogy: On Scene Sketches and its Relationship with Text and Photo**|Pinaki Nath Chowdhury et.al.|[2204.11964v1](http://arxiv.org/abs/2204.11964v1)|null|
