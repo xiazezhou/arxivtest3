@@ -144,7 +144,7 @@
 - 2022-05-23, **VQA-GNN: Reasoning with Multimodal Semantic Graph for Visual Question Answering**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2205.11501v1](http://arxiv.org/abs/2205.11501v1)
 - 2022-05-23, **Deep Image Retrieval is not Robust to Label Noise**, Stanislav Dereka et.al., Paper: [http://arxiv.org/abs/2205.11195v1](http://arxiv.org/abs/2205.11195v1)
 - 2022-05-22, **Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval**, Zelong Zeng et.al., Paper: [http://arxiv.org/abs/2205.10878v1](http://arxiv.org/abs/2205.10878v1)
-- 2022-05-20, **Visually-Augmented Language Modeling**, Weizhi Wang et.al., Paper: [http://arxiv.org/abs/2205.10178v1](http://arxiv.org/abs/2205.10178v1)
+- 2022-05-20, **Visually-Augmented Language Modeling**, Weizhi Wang et.al., Paper: [http://arxiv.org/abs/2205.10178v1](http://arxiv.org/abs/2205.10178v1), Code: **[https://github.com/victorwz/valm](https://github.com/victorwz/valm)**
 - 2022-05-18, **Deep Features for CBIR with Scarce Data using Hebbian Learning**, Gabriele Lagani et.al., Paper: [http://arxiv.org/abs/2205.08935v1](http://arxiv.org/abs/2205.08935v1)
 - 2022-05-19, **Text Detection & Recognition in the Wild for Robot Localization**, Zobeir Raisi et.al., Paper: [http://arxiv.org/abs/2205.08565v2](http://arxiv.org/abs/2205.08565v2)
 - 2022-05-12, **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et.al., Paper: [http://arxiv.org/abs/2205.06126v1](http://arxiv.org/abs/2205.06126v1)
