@@ -2,7 +2,7 @@
 
 ## SLAM
 
-- 2022-05-22, **ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2205.10737v1](http://arxiv.org/abs/2205.10737v1)
+- 2022-05-22, **ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2205.10737v1](http://arxiv.org/abs/2205.10737v1), Code: **[https://github.com/metaslam/alita](https://github.com/metaslam/alita)**
 - 2022-05-19, **FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**, Jeffrey Ichnowski et.al., Paper: [http://arxiv.org/abs/2205.09778v1](http://arxiv.org/abs/2205.09778v1), Code: **[https://github.com/BerkeleyAutomation/FogROS2](https://github.com/BerkeleyAutomation/FogROS2)**
 - 2022-05-17, **Global Data Association for SLAM with 3D Grassmannian Manifold Objects**, Parker C. Lusk et.al., Paper: [http://arxiv.org/abs/2205.08556v1](http://arxiv.org/abs/2205.08556v1)
 - 2022-05-19, **Cluster on Wheels**, Yuanyuan Yang et.al., Paper: [http://arxiv.org/abs/2205.08151v2](http://arxiv.org/abs/2205.08151v2)
