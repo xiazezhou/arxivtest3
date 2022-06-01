@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin et.al.|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
-|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
+|**2022-05-31**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-25**|**Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**|Milad Ramezani et.al.|[2205.12595v1](http://arxiv.org/abs/2205.12595v1)|null|
 |**2022-05-24**|**Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM**|Christopher E. Denniston et.al.|[2205.12402v1](http://arxiv.org/abs/2205.12402v1)|null|
 |**2022-05-22**|**ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**|Peng Yin et.al.|[2205.10737v1](http://arxiv.org/abs/2205.10737v1)|**[link](https://github.com/metaslam/alita)**|
@@ -164,6 +164,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-31**|**Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction**|Qiancheng Fu et.al.|[2205.15848v1](http://arxiv.org/abs/2205.15848v1)|null|
 |**2022-05-09**|**Is my Depth Ground-Truth Good Enough? HAMMER -- Highly Accurate Multi-Modal Dataset for DEnse 3D Scene Regression**|HyunJun Jung et.al.|[2205.04565v1](http://arxiv.org/abs/2205.04565v1)|null|
 |**2022-05-07**|**Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs**|Pedro F. Proença et.al.|[2205.03522v1](http://arxiv.org/abs/2205.03522v1)|null|
 |**2022-05-06**|**EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms**|Levi Burner et.al.|[2205.03467v1](http://arxiv.org/abs/2205.03467v1)|null|
@@ -209,8 +210,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-28**|**FaIRCoP: Facial Image Retrieval using Contrastive Personalization**|Devansh Gupta et.al.|[2205.15870v1](http://arxiv.org/abs/2205.15870v1)|null|
+|**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|null|
 |**2022-05-27**|**Improving Road Segmentation in Challenging Domains Using Similar Place Priors**|Connor Malone et.al.|[2205.14112v1](http://arxiv.org/abs/2205.14112v1)|null|
-|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v1](http://arxiv.org/abs/2205.13135v1)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
+|**2022-05-31**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-26**|**Fine-grained Image Captioning with CLIP Reward**|Jaemin Cho et.al.|[2205.13115v1](http://arxiv.org/abs/2205.13115v1)|**[link](https://github.com/j-min/clip-caption-reward)**|
 |**2022-05-25**|**Deep Dense Local Feature Matching and Vehicle Removal for Indoor Visual Localization**|Kyung Ho Park et.al.|[2205.12544v1](http://arxiv.org/abs/2205.12544v1)|null|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun et.al.|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
