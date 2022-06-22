@@ -260,7 +260,7 @@
 
 ## Keypoint Detection
 
-- 2022-06-21, **KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**, Xuanhan Wang et.al., Paper: [http://arxiv.org/abs/2206.10090v1](http://arxiv.org/abs/2206.10090v1)
+- 2022-06-21, **KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**, Xuanhan Wang et.al., Paper: [http://arxiv.org/abs/2206.10090v1](http://arxiv.org/abs/2206.10090v1), Code: **[https://github.com/stoa-xh91/humandensepose](https://github.com/stoa-xh91/humandensepose)**
 - 2022-06-20, **Self-Supervised Consistent Quantization for Fully Unsupervised Image Retrieval**, Guile Wu et.al., Paper: [http://arxiv.org/abs/2206.09806v1](http://arxiv.org/abs/2206.09806v1)
 - 2022-06-15, **A Unified Sequence Interface for Vision Tasks**, Ting Chen et.al., Paper: [http://arxiv.org/abs/2206.07669v1](http://arxiv.org/abs/2206.07669v1)
 - 2022-06-09, **Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**, Mingtong Zhang et.al., Paper: [http://arxiv.org/abs/2206.04669v1](http://arxiv.org/abs/2206.04669v1)
