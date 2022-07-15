@@ -1,12 +1,15 @@
-> Updated on 2022.07.14
+> Updated on 2022.07.15
 
 ## SLAM
 
+- 2022-07-14, **Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset**, Riccardo Giubilato et.al., Paper: [http://arxiv.org/abs/2207.06815v1](http://arxiv.org/abs/2207.06815v1)
+- 2022-07-14, **Semi-supervised Vector-Quantization in Visual SLAM using HGCN**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06738v1](http://arxiv.org/abs/2207.06738v1)
+- 2022-07-14, **Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06732v1](http://arxiv.org/abs/2207.06732v1)
 - 2022-07-13, **SLAM: SLO-Aware Memory Optimization for Serverless Applications**, Gor Safaryan et.al., Paper: [http://arxiv.org/abs/2207.06183v1](http://arxiv.org/abs/2207.06183v1)
 - 2022-07-13, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v1](http://arxiv.org/abs/2207.06058v1), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-12, **Accelerating Certifiable Estimation with Preconditioned Eigensolvers**, David M. Rosen et.al., Paper: [http://arxiv.org/abs/2207.05257v1](http://arxiv.org/abs/2207.05257v1)
 - 2022-07-12, **Robust Key-Frame Stereo Visual SLAM with low-threshold Point and Line Features**, Meiyu Zhi et.al., Paper: [http://arxiv.org/abs/2207.05244v1](http://arxiv.org/abs/2207.05244v1)
-- 2022-07-11, **SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**, Chih-Yuan Chiu et.al., Paper: [http://arxiv.org/abs/2207.05043v1](http://arxiv.org/abs/2207.05043v1)
+- 2022-07-14, **SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**, Chih-Yuan Chiu et.al., Paper: [http://arxiv.org/abs/2207.05043v2](http://arxiv.org/abs/2207.05043v2)
 - 2022-07-08, **BlindSpotNet: Seeing Where We Cannot See**, Taichi Fukuda et.al., Paper: [http://arxiv.org/abs/2207.03870v1](http://arxiv.org/abs/2207.03870v1)
 - 2022-07-08, **Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints**, Philipp Glira et.al., Paper: [http://arxiv.org/abs/2207.03785v1](http://arxiv.org/abs/2207.03785v1)
 - 2022-07-08, **Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**, Ran Liu et.al., Paper: [http://arxiv.org/abs/2207.03700v1](http://arxiv.org/abs/2207.03700v1)
@@ -147,7 +150,7 @@
 
 ## SFM
 
-- 2022-07-13, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v1](http://arxiv.org/abs/2207.06262v1)
+- 2022-07-14, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v2](http://arxiv.org/abs/2207.06262v2)
 - 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-06-24, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v2](http://arxiv.org/abs/2206.11499v2)
 - 2022-06-13, **TC-SfM: Robust Track-Community-Based Structure-from-Motion**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2206.05866v1](http://arxiv.org/abs/2206.05866v1)
@@ -185,6 +188,9 @@
 
 ## Visual Localization
 
+- 2022-07-14, **AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2207.06965v1](http://arxiv.org/abs/2207.06965v1)
+- 2022-07-14, **Semi-supervised Vector-Quantization in Visual SLAM using HGCN**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06738v1](http://arxiv.org/abs/2207.06738v1)
+- 2022-07-14, **Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06732v1](http://arxiv.org/abs/2207.06732v1)
 - 2022-07-13, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v1](http://arxiv.org/abs/2207.06058v1), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-12, **CPO: Change Robust Panorama to Point Cloud Localization**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2207.05317v1](http://arxiv.org/abs/2207.05317v1)
 - 2022-07-05, **Hierarchical Average Precision Training for Pertinent Image Retrieval**, Elias Ramzi et.al., Paper: [http://arxiv.org/abs/2207.04873v1](http://arxiv.org/abs/2207.04873v1)
