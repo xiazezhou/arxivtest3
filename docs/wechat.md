@@ -196,7 +196,7 @@
 
 ## Visual Localization
 
-- 2022-07-20, **Revisiting Hotels-50K and Hotel-ID**, Aarash Feizi et.al., Paper: [http://arxiv.org/abs/2207.10200v1](http://arxiv.org/abs/2207.10200v1)
+- 2022-07-20, **Revisiting Hotels-50K and Hotel-ID**, Aarash Feizi et.al., Paper: [http://arxiv.org/abs/2207.10200v1](http://arxiv.org/abs/2207.10200v1), Code: **[https://github.com/aarashfeizi/revisited-hotels](https://github.com/aarashfeizi/revisited-hotels)**
 - 2022-07-20, **Feature Representation Learning for Unsupervised Cross-domain Image Retrieval**, Conghui Hu et.al., Paper: [http://arxiv.org/abs/2207.09721v1](http://arxiv.org/abs/2207.09721v1), Code: **[https://github.com/conghuihu/ucdir](https://github.com/conghuihu/ucdir)**
 - 2022-07-19, **SeasoNet: A Seasonal Scene Classification, segmentation and Retrieval dataset for satellite Imagery over Germany**, Dominik Koßmann et.al., Paper: [http://arxiv.org/abs/2207.09507v1](http://arxiv.org/abs/2207.09507v1)
 - 2022-07-19, **Context Unaware Knowledge Distillation for Image Retrieval**, Bytasandram Yaswanth Reddy et.al., Paper: [http://arxiv.org/abs/2207.09070v1](http://arxiv.org/abs/2207.09070v1), Code: **[https://github.com/satoru2001/cukdfir](https://github.com/satoru2001/cukdfir)**
