@@ -216,7 +216,7 @@
 
 ## Visual Localization
 
-- 2022-08-14, **Visual Localization via Few-Shot Scene Region Classification**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2208.06933v1](http://arxiv.org/abs/2208.06933v1)
+- 2022-08-14, **Visual Localization via Few-Shot Scene Region Classification**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2208.06933v1](http://arxiv.org/abs/2208.06933v1), Code: **[https://github.com/siyandong/src](https://github.com/siyandong/src)**
 - 2022-08-14, **HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**, Chengyin Xu et.al., Paper: [http://arxiv.org/abs/2208.06866v1](http://arxiv.org/abs/2208.06866v1), Code: **[https://github.com/jerryxu0129/hyp2-loss](https://github.com/jerryxu0129/hyp2-loss)**
 - 2022-08-13, **Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**, Ming Dai et.al., Paper: [http://arxiv.org/abs/2208.06561v1](http://arxiv.org/abs/2208.06561v1)
 - 2022-08-12, **Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2208.06195v1](http://arxiv.org/abs/2208.06195v1)
