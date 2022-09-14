@@ -1,4 +1,4 @@
-> Updated on 2022.09.13
+> Updated on 2022.09.14
 
 ## SLAM
 
@@ -240,7 +240,7 @@
 
 - 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1), Code: **[https://github.com/MetaSLAM/GPRS](https://github.com/MetaSLAM/GPRS)**
 - 2022-09-09, **Retinal Image Restoration and Vessel Segmentation using Modified Cycle-CBAM and CBAM-UNet**, Alnur Alimanov et.al., Paper: [http://arxiv.org/abs/2209.04234v1](http://arxiv.org/abs/2209.04234v1), Code: **[https://github.com/AAleka/Cycle-CBAM-and-CBAM-UNet/tree/main/UNet](https://github.com/AAleka/Cycle-CBAM-and-CBAM-UNet/tree/main/UNet)**
-- 2022-09-06, **Segment Augmentation and Differentiable Ranking for Logo Retrieval**, Feyza Yavuz et.al., Paper: [http://arxiv.org/abs/2209.02482v1](http://arxiv.org/abs/2209.02482v1)
+- 2022-09-13, **Segment Augmentation and Differentiable Ranking for Logo Retrieval**, Feyza Yavuz et.al., Paper: [http://arxiv.org/abs/2209.02482v2](http://arxiv.org/abs/2209.02482v2)
 - 2022-09-12, **ScaleFace: Uncertainty-aware Deep Metric Learning**, Roman Kail et.al., Paper: [http://arxiv.org/abs/2209.01880v2](http://arxiv.org/abs/2209.01880v2), Code: **[https://github.com/stat-ml/face-evaluation](https://github.com/stat-ml/face-evaluation)**
 - 2022-09-04, **CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**, Evgeny Yudin et.al., Paper: [http://arxiv.org/abs/2209.01605v1](http://arxiv.org/abs/2209.01605v1)
 - 2022-08-31, **EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**, Qihua Feng et.al., Paper: [http://arxiv.org/abs/2208.14657v1](http://arxiv.org/abs/2208.14657v1), Code: **[https://github.com/onlinehuazai/evit](https://github.com/onlinehuazai/evit)**
