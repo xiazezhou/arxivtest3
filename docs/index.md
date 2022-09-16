@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.09.15
+## Updated on 2022.09.16
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun et.al.|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
+|**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
 |**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali et.al.|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
 |**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
@@ -248,6 +250,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-14**|**End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**|Qiao Chen et.al.|[2209.06926v1](http://arxiv.org/abs/2209.06926v1)|null|
 |**2022-09-07**|**Deployment of Aerial Robots during the Flood Disaster in Erftstadt / Blessem in July 2021**|Hartmut Surmann et.al.|[2209.03084v1](http://arxiv.org/abs/2209.03084v1)|null|
 |**2022-08-27**|**Weakly and Semi-Supervised Detection, Segmentation and Tracking of Table Grapes with Limited and Noisy Data**|Thomas A. Ciarfuglia et.al.|[2208.13001v1](http://arxiv.org/abs/2208.13001v1)|null|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
@@ -308,7 +311,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-14**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v1](http://arxiv.org/abs/2209.06779v1)|null|
+|**2022-09-15**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v2](http://arxiv.org/abs/2209.06779v2)|null|
 |**2022-09-14**|**Transformers and CNNs both Beat Humans on SBIR**|Omar Seddati et.al.|[2209.06629v1](http://arxiv.org/abs/2209.06629v1)|null|
 |**2022-09-14**|**Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch**|J. Lu et.al.|[2209.06545v1](http://arxiv.org/abs/2209.06545v1)|null|
 |**2022-09-14**|**iSimLoc: Visual Global Localization for Previously Unseen Environments with Simulated Images**|Peng Yin et.al.|[2209.06376v1](http://arxiv.org/abs/2209.06376v1)|null|
@@ -479,6 +482,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-15**|**Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**|Bastian Pätzold et.al.|[2209.07393v1](http://arxiv.org/abs/2209.07393v1)|null|
 |**2022-09-07**|**Deep Learning-Based Automatic Diagnosis System for Developmental Dysplasia of the Hip**|Yang Li et.al.|[2209.03440v1](http://arxiv.org/abs/2209.03440v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa et.al.|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
 |**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat et.al.|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|**[link](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**|
