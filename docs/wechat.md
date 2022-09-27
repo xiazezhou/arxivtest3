@@ -265,7 +265,7 @@
 
 ## Visual Localization
 
-- 2022-09-26, **NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**, Ruihao Zhou et.al., Paper: [http://arxiv.org/abs/2209.12513v1](http://arxiv.org/abs/2209.12513v1)
+- 2022-09-26, **NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**, Ruihao Zhou et.al., Paper: [http://arxiv.org/abs/2209.12513v1](http://arxiv.org/abs/2209.12513v1), Code: **[https://github.com/zhouruihao1001/ndd](https://github.com/zhouruihao1001/ndd)**
 - 2022-09-25, **Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis**, Jiawen Kang et.al., Paper: [http://arxiv.org/abs/2209.12274v1](http://arxiv.org/abs/2209.12274v1)
 - 2022-09-24, **Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**, Jonathan J. Y. Kim et.al., Paper: [http://arxiv.org/abs/2209.11894v1](http://arxiv.org/abs/2209.11894v1)
 - 2022-09-23, **Image-to-Image Translation for Autonomous Driving from Coarsely-Aligned Image Pairs**, Youya Xia et.al., Paper: [http://arxiv.org/abs/2209.11673v1](http://arxiv.org/abs/2209.11673v1)
