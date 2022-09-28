@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-09-27, **Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**, Chi-Ming Chung et.al., Paper: [http://arxiv.org/abs/2209.13274v1](http://arxiv.org/abs/2209.13274v1)
 - 2022-09-24, **Graph Neural Networks for Multi-Robot Active Information Acquisition**, Mariliza Tzes et.al., Paper: [http://arxiv.org/abs/2209.12091v1](http://arxiv.org/abs/2209.12091v1)
 - 2022-09-24, **Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**, Jonathan J. Y. Kim et.al., Paper: [http://arxiv.org/abs/2209.11894v1](http://arxiv.org/abs/2209.11894v1)
 - 2022-09-23, **involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**, Gilad Rotman et.al., Paper: [http://arxiv.org/abs/2209.11591v1](http://arxiv.org/abs/2209.11591v1)
@@ -265,6 +266,8 @@
 
 ## Visual Localization
 
+- 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
+- 2022-09-27, **Exploring the Algorithm-Dependent Generalization of AUPRC Optimization with List Stability**, Peisong Wen et.al., Paper: [http://arxiv.org/abs/2209.13262v1](http://arxiv.org/abs/2209.13262v1), Code: **[https://github.com/kid-7391/soprc](https://github.com/kid-7391/soprc)**
 - 2022-09-26, **NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**, Ruihao Zhou et.al., Paper: [http://arxiv.org/abs/2209.12513v1](http://arxiv.org/abs/2209.12513v1), Code: **[https://github.com/zhouruihao1001/ndd](https://github.com/zhouruihao1001/ndd)**
 - 2022-09-25, **Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis**, Jiawen Kang et.al., Paper: [http://arxiv.org/abs/2209.12274v1](http://arxiv.org/abs/2209.12274v1)
 - 2022-09-24, **Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**, Jonathan J. Y. Kim et.al., Paper: [http://arxiv.org/abs/2209.11894v1](http://arxiv.org/abs/2209.11894v1)
@@ -443,6 +446,7 @@
 
 ## Keypoint Detection
 
+- 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-09-26, **Performance Evaluation of 3D Keypoint Detectors and Descriptors on Coloured Point Clouds in Subsea Environments**, Kyungmin Jung et.al., Paper: [http://arxiv.org/abs/2209.12881v1](http://arxiv.org/abs/2209.12881v1)
 - 2022-09-21, **Long-Lived Accurate Keypoints in Event Streams**, Philippe Chiberre et.al., Paper: [http://arxiv.org/abs/2209.10385v1](http://arxiv.org/abs/2209.10385v1)
 - 2022-09-20, **Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2209.08742v2](http://arxiv.org/abs/2209.08742v2)
@@ -505,6 +509,7 @@
 
 ## Image Matching
 
+- 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-09-25, **ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement**, Dongli Tan et.al., Paper: [http://arxiv.org/abs/2209.12213v1](http://arxiv.org/abs/2209.12213v1)
 - 2022-09-22, **DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**, Chao Li et.al., Paper: [http://arxiv.org/abs/2209.10907v1](http://arxiv.org/abs/2209.10907v1)
 - 2022-09-15, **Efficient Subgraph Isomorphism using Graph Topology**, Arpan Kusari et.al., Paper: [http://arxiv.org/abs/2209.09090v1](http://arxiv.org/abs/2209.09090v1)
