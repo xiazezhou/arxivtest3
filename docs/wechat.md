@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-09-30, **PyPose: A Library for Robot Learning with Physics-based Optimization**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2209.15428v1](http://arxiv.org/abs/2209.15428v1), Code: **[https://github.com/pypose/pypose](https://github.com/pypose/pypose)**
 - 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
 - 2022-09-28, **Robust Incremental Smoothing and Mapping (riSAM)**, Daniel McGann et.al., Paper: [http://arxiv.org/abs/2209.14359v1](http://arxiv.org/abs/2209.14359v1)
 - 2022-09-27, **Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**, Chi-Ming Chung et.al., Paper: [http://arxiv.org/abs/2209.13274v1](http://arxiv.org/abs/2209.13274v1)
@@ -268,6 +269,7 @@
 
 ## Visual Localization
 
+- 2022-09-29, **Guided Unsupervised Learning by Subaperture Decomposition for Ocean SAR Image Retrieval**, Nicolae-Cătălin Ristea et.al., Paper: [http://arxiv.org/abs/2209.15034v1](http://arxiv.org/abs/2209.15034v1)
 - 2022-09-28, **TVLT: Textless Vision-Language Transformer**, Zineng Tang et.al., Paper: [http://arxiv.org/abs/2209.14156v1](http://arxiv.org/abs/2209.14156v1), Code: **[https://github.com/zinengtang/tvlt](https://github.com/zinengtang/tvlt)**
 - 2022-09-28, **SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval**, Yang Shen et.al., Paper: [http://arxiv.org/abs/2209.13833v1](http://arxiv.org/abs/2209.13833v1), Code: **[https://github.com/njust-vipgroup/semicon](https://github.com/njust-vipgroup/semicon)**
 - 2022-09-28, **Learning Deep Representations via Contrastive Learning for Instance Retrieval**, Tao Wu et.al., Paper: [http://arxiv.org/abs/2209.13832v1](http://arxiv.org/abs/2209.13832v1)
