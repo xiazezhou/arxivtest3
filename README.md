@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-03**|**DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**|John McConnell et.al.|[2210.00867v1](http://arxiv.org/abs/2210.00867v1)|null|
+|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
+|**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
 |**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|**[link](https://github.com/pypose/pypose)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann et.al.|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
@@ -270,6 +273,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|null|
+|**2022-10-01**|**FAST-LIO, Then Bayesian ICP, then GTSFM**|Jerred Chen et.al.|[2210.00146v1](http://arxiv.org/abs/2210.00146v1)|null|
 |**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran et.al.|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
 |**2022-09-19**|**A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**|Gerry Chen et.al.|[2209.08690v1](http://arxiv.org/abs/2209.08690v1)|null|
 |**2022-09-14**|**End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**|Qiao Chen et.al.|[2209.06926v1](http://arxiv.org/abs/2209.06926v1)|null|
@@ -333,6 +338,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-03**|**Merging Classification Predictions with Sequential Information for Lightweight Visual Place Recognition in Changing Environments**|Bruno Arcanjo et.al.|[2210.00834v1](http://arxiv.org/abs/2210.00834v1)|null|
+|**2022-10-02**|**Loc-VAE: Learning Structurally Localized Representation from 3D Brain MR Images for Content-Based Image Retrieval**|Kei Nishimaki et.al.|[2210.00506v1](http://arxiv.org/abs/2210.00506v1)|null|
 |**2022-09-29**|**Guided Unsupervised Learning by Subaperture Decomposition for Ocean SAR Image Retrieval**|Nicolae-Cătălin Ristea et.al.|[2209.15034v1](http://arxiv.org/abs/2209.15034v1)|null|
 |**2022-09-28**|**TVLT: Textless Vision-Language Transformer**|Zineng Tang et.al.|[2209.14156v1](http://arxiv.org/abs/2209.14156v1)|**[link](https://github.com/zinengtang/tvlt)**|
 |**2022-09-28**|**SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval**|Yang Shen et.al.|[2209.13833v1](http://arxiv.org/abs/2209.13833v1)|**[link](https://github.com/njust-vipgroup/semicon)**|
