@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-10-05, **MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**, Hanwei Zhang et.al., Paper: [http://arxiv.org/abs/2210.02038v1](http://arxiv.org/abs/2210.02038v1)
 - 2022-10-04, **O2S: Open-source open shuttle**, Nwankwo Linus et.al., Paper: [http://arxiv.org/abs/2210.01627v1](http://arxiv.org/abs/2210.01627v1)
 - 2022-10-04, **Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**, Weiying Wang et.al., Paper: [http://arxiv.org/abs/2210.01320v1](http://arxiv.org/abs/2210.01320v1)
 - 2022-10-03, **Probabilistic Volumetric Fusion for Dense Monocular SLAM**, Antoni Rosinol et.al., Paper: [http://arxiv.org/abs/2210.01276v1](http://arxiv.org/abs/2210.01276v1)
@@ -227,7 +228,7 @@
 ## SFM
 
 - 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
-- 2022-10-01, **FAST-LIO, Then Bayesian ICP, then GTSFM**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2210.00146v1](http://arxiv.org/abs/2210.00146v1)
+- 2022-10-05, **FAST-LIO, Then Bayesian ICP, Then GTSFM**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2210.00146v2](http://arxiv.org/abs/2210.00146v2)
 - 2022-09-20, **BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**, Ahalya Ravendran et.al., Paper: [http://arxiv.org/abs/2209.09470v1](http://arxiv.org/abs/2209.09470v1)
 - 2022-09-19, **A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**, Gerry Chen et.al., Paper: [http://arxiv.org/abs/2209.08690v1](http://arxiv.org/abs/2209.08690v1)
 - 2022-09-14, **End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**, Qiao Chen et.al., Paper: [http://arxiv.org/abs/2209.06926v1](http://arxiv.org/abs/2209.06926v1)
@@ -277,6 +278,10 @@
 
 ## Visual Localization
 
+- 2022-10-05, **Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**, Deepak Gupta et.al., Paper: [http://arxiv.org/abs/2210.02401v1](http://arxiv.org/abs/2210.02401v1)
+- 2022-10-05, **Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**, Jon Almazán et.al., Paper: [http://arxiv.org/abs/2210.02254v1](http://arxiv.org/abs/2210.02254v1)
+- 2022-10-05, **Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective**, Zijian Zhang et.al., Paper: [http://arxiv.org/abs/2210.02206v1](http://arxiv.org/abs/2210.02206v1)
+- 2022-10-04, **Supervised Metric Learning for Retrieval via Contextual Similarity Optimization**, Christopher Liao et.al., Paper: [http://arxiv.org/abs/2210.01908v1](http://arxiv.org/abs/2210.01908v1)
 - 2022-10-04, **Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**, Weiying Wang et.al., Paper: [http://arxiv.org/abs/2210.01320v1](http://arxiv.org/abs/2210.01320v1)
 - 2022-10-03, **Merging Classification Predictions with Sequential Information for Lightweight Visual Place Recognition in Changing Environments**, Bruno Arcanjo et.al., Paper: [http://arxiv.org/abs/2210.00834v1](http://arxiv.org/abs/2210.00834v1)
 - 2022-10-02, **Loc-VAE: Learning Structurally Localized Representation from 3D Brain MR Images for Content-Based Image Retrieval**, Kei Nishimaki et.al., Paper: [http://arxiv.org/abs/2210.00506v1](http://arxiv.org/abs/2210.00506v1)
