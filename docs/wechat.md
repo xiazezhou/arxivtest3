@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-10-10, **Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**, Xingyu Chen et.al., Paper: [http://arxiv.org/abs/2210.04562v1](http://arxiv.org/abs/2210.04562v1)
+- 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-06, **SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**, Alan Papalia et.al., Paper: [http://arxiv.org/abs/2210.03177v1](http://arxiv.org/abs/2210.03177v1)
 - 2022-10-06, **Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**, Kirill Mazur et.al., Paper: [http://arxiv.org/abs/2210.03043v1](http://arxiv.org/abs/2210.03043v1)
 - 2022-10-06, **Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**, Osian Morgan et.al., Paper: [http://arxiv.org/abs/2210.02642v1](http://arxiv.org/abs/2210.02642v1)
@@ -282,6 +284,7 @@
 
 ## Visual Localization
 
+- 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-05, **Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**, Deepak Gupta et.al., Paper: [http://arxiv.org/abs/2210.02401v1](http://arxiv.org/abs/2210.02401v1), Code: **[https://github.com/deepaknlp/dls](https://github.com/deepaknlp/dls)**
 - 2022-10-05, **Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**, Jon Almazán et.al., Paper: [http://arxiv.org/abs/2210.02254v1](http://arxiv.org/abs/2210.02254v1)
 - 2022-10-05, **Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective**, Zijian Zhang et.al., Paper: [http://arxiv.org/abs/2210.02206v1](http://arxiv.org/abs/2210.02206v1), Code: **[https://github.com/96-zachary/vse_2ad](https://github.com/96-zachary/vse_2ad)**
@@ -474,6 +477,7 @@
 
 ## Keypoint Detection
 
+- 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2022-09-28, **Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**, Jun-Jee Chao et.al., Paper: [http://arxiv.org/abs/2209.14419v1](http://arxiv.org/abs/2209.14419v1)
 - 2022-09-28, **USEEK: Unsupervised SE(3)-Equivariant 3D Keypoints for Generalizable Manipulation**, Zhengrong Xue et.al., Paper: [http://arxiv.org/abs/2209.13864v1](http://arxiv.org/abs/2209.13864v1)
