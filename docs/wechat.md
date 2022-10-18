@@ -298,7 +298,7 @@
 
 - 2022-10-17, **Bridging the Gap between Local Semantic Concepts and Bag of Visual Words for Natural Scene Image Retrieval**, Yousef Alqasrawi et.al., Paper: [http://arxiv.org/abs/2210.08875v1](http://arxiv.org/abs/2210.08875v1)
 - 2022-10-17, **SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation**, Woo Suk Choi et.al., Paper: [http://arxiv.org/abs/2210.08675v1](http://arxiv.org/abs/2210.08675v1)
-- 2022-10-16, **Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers**, Tao Tang et.al., Paper: [http://arxiv.org/abs/2210.08458v1](http://arxiv.org/abs/2210.08458v1)
+- 2022-10-16, **Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers**, Tao Tang et.al., Paper: [http://arxiv.org/abs/2210.08458v1](http://arxiv.org/abs/2210.08458v1), Code: **[https://github.com/trent-tangtao/autoview](https://github.com/trent-tangtao/autoview)**
 - 2022-10-14, **Cross-Scale Context Extracted Hashing for Fine-Grained Image Binary Encoding**, Xuetong Xue et.al., Paper: [http://arxiv.org/abs/2210.07572v1](http://arxiv.org/abs/2210.07572v1), Code: **[https://github.com/netease-media/csce-net](https://github.com/netease-media/csce-net)**
 - 2022-10-14, **Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2210.07509v1](http://arxiv.org/abs/2210.07509v1)
 - 2022-10-11, **Large-to-small Image Resolution Asymmetry in Deep Metric Learning**, Pavel Suma et.al., Paper: [http://arxiv.org/abs/2210.05463v1](http://arxiv.org/abs/2210.05463v1)
