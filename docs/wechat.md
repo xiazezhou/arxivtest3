@@ -298,6 +298,9 @@
 
 ## Visual Localization
 
+- 2022-10-19, **Image Semantic Relation Generation**, Mingzhe Du et.al., Paper: [http://arxiv.org/abs/2210.11253v1](http://arxiv.org/abs/2210.11253v1)
+- 2022-10-20, **General Image Descriptors for Open World Image Retrieval using ViT CLIP**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2210.11141v1](http://arxiv.org/abs/2210.11141v1)
+- 2022-10-20, **DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**, Sha Lu et.al., Paper: [http://arxiv.org/abs/2210.11029v1](http://arxiv.org/abs/2210.11029v1)
 - 2022-10-19, **Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**, Abhra Chaudhuri et.al., Paper: [http://arxiv.org/abs/2210.10486v1](http://arxiv.org/abs/2210.10486v1)
 - 2022-10-19, **GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2210.10239v1](http://arxiv.org/abs/2210.10239v1), Code: **[https://github.com/amaralibey/gsv-cities](https://github.com/amaralibey/gsv-cities)**
 - 2022-10-18, **A Real-Time Fusion Framework for Long-term Visual Localization**, Yuchen Yang et.al., Paper: [http://arxiv.org/abs/2210.09757v1](http://arxiv.org/abs/2210.09757v1)
