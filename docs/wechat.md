@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
+- 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
 - 2022-10-19, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v1](http://arxiv.org/abs/2210.10491v1)
 - 2022-10-18, **Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**, Geon Choi et.al., Paper: [http://arxiv.org/abs/2210.09636v1](http://arxiv.org/abs/2210.09636v1)
 - 2022-10-16, **D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**, Ayman Beghdadi et.al., Paper: [http://arxiv.org/abs/2210.08647v1](http://arxiv.org/abs/2210.08647v1)
@@ -298,6 +300,8 @@
 
 ## Visual Localization
 
+- 2022-10-21, **Boosting vision transformers for image retrieval**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2210.11909v1](http://arxiv.org/abs/2210.11909v1), Code: **[https://github.com/dealicious-inc/dtop](https://github.com/dealicious-inc/dtop)**
+- 2022-10-20, **Communication breakdown: On the low mutual intelligibility between human and neural captioning**, Roberto Dessì et.al., Paper: [http://arxiv.org/abs/2210.11512v1](http://arxiv.org/abs/2210.11512v1)
 - 2022-10-19, **Image Semantic Relation Generation**, Mingzhe Du et.al., Paper: [http://arxiv.org/abs/2210.11253v1](http://arxiv.org/abs/2210.11253v1)
 - 2022-10-20, **General Image Descriptors for Open World Image Retrieval using ViT CLIP**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2210.11141v1](http://arxiv.org/abs/2210.11141v1), Code: **[https://github.com/ivanaer/g-universal-clip](https://github.com/ivanaer/g-universal-clip)**
 - 2022-10-20, **DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**, Sha Lu et.al., Paper: [http://arxiv.org/abs/2210.11029v1](http://arxiv.org/abs/2210.11029v1)
@@ -503,6 +507,7 @@
 
 ## Keypoint Detection
 
+- 2022-10-21, **Real-time Detection of 2D Tool Landmarks with Synthetic Training Data**, Bram Vanherle et.al., Paper: [http://arxiv.org/abs/2210.11991v1](http://arxiv.org/abs/2210.11991v1)
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2022-09-28, **Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**, Jun-Jee Chao et.al., Paper: [http://arxiv.org/abs/2209.14419v1](http://arxiv.org/abs/2209.14419v1)
