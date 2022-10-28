@@ -374,6 +374,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-27**|**Structuring User-Generated Content on Social Media with Multimodal Aspect-Based Sentiment Analysis**|Miriam Anschütz et.al.|[2210.15377v1](http://arxiv.org/abs/2210.15377v1)|**[link](https://github.com/miriull/multimodal_absa_elbphilharmonie)**|
+|**2022-10-27**|**Leveraging Computer Vision Application in Visual Arts: A Case Study on the Use of Residual Neural Network to Classify and Analyze Baroque Paintings**|Daniel Kvak et.al.|[2210.15300v1](http://arxiv.org/abs/2210.15300v1)|null|
+|**2022-10-27**|**Towards Practicality of Sketch-Based Visual Understanding**|Ayan Kumar Bhunia et.al.|[2210.15146v1](http://arxiv.org/abs/2210.15146v1)|null|
+|**2022-10-27**|**MMFL-Net: Multi-scale and Multi-granularity Feature Learning for Cross-domain Fashion Retrieval**|Chen Bao et.al.|[2210.15128v1](http://arxiv.org/abs/2210.15128v1)|null|
+|**2022-10-26**|**FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning**|Suvir Mirchandani et.al.|[2210.15028v1](http://arxiv.org/abs/2210.15028v1)|null|
 |**2022-10-26**|**FairCLIP: Social Bias Elimination based on Attribute Prototype Learning and Representation Neutralization**|Junyang Wang et.al.|[2210.14562v1](http://arxiv.org/abs/2210.14562v1)|null|
 |**2022-10-25**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v1](http://arxiv.org/abs/2210.13856v1)|null|
 |**2022-10-27**|**Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision**|Tzu-Jui Julius Wang et.al.|[2210.13591v2](http://arxiv.org/abs/2210.13591v2)|null|
